@@ -1,4 +1,4 @@
-#string concatenation (how to put strings together)
+#string concatenation (put strings together)
 
 # baseballer = "and Robinson Cano"
 
